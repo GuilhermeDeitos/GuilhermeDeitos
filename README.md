@@ -13,6 +13,12 @@
   <li> Arduino <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_122130.png" width="30px" align="center"> </li>
 </ul>
 
+<h4> 🖥Tecnologias que possuo conhecimento básico:</h4>
+<ul>
+  <li> Java  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125138.png" width="30px" align="center"></li>
+  <li> Pascal  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125102.png" width="30px" align="center"></li>
+  <li> C#  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125042.png" width="30px" align="center"></li>
+</ul>
 
 <h4>  🔭Atualmente trabalhando: </h4>
   
