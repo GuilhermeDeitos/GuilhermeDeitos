@@ -1,4 +1,4 @@
-<h1> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" width="40px"> </h1>
+<h1 align="center"> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" width="40px"> </h1>
 
 <h4> 💬Sobre mim: </h4>
 <p>Meu nome é Guilherme, tenho 16 anos, sou um entusiasta de desenvolvimento WEB e Data Science e no processo de me tornar um programador. Estou no ultimo ano de TI e planejando ingressar em Ciencia da computação ou Analise e Desenvolvimento de Sistemas</p>
