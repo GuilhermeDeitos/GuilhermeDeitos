@@ -1,4 +1,4 @@
-<h1> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" max-width="40px"> </h1>
+<h1> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" width="40px"> </h1>
 
 <h4> 💬Sobre mim: </h4>
 <p>Meu nome é Guilherme, tenho 16 anos, sou um entusiasta de desenvolvimento WEB e Data Science e no processo de me tornar um programador. Estou no ultimo ano de TI e planejando ingressar em Ciencia da computação ou Analise e Desenvolvimento de Sistemas</p>
@@ -6,18 +6,18 @@
 <h4> 🌱Atualmente estudando: </h4>
 
 <ul>
-  <li> Python(Pandas)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115532.png" max-width="40px" align="center"> </li>
-  <li> HTML5 <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115211.png" max-width="30px" align="center"> </li>
-  <li> CSS3  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115228.png" max-width="30px" align="center"> </li>
-  <li> JavaScript  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115244.png" max-width="30px" align="center"> </li>
-  <li> Arduino <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_122130.png" max-width="30px" align="center"> </li>
+  <li> Python(Pandas)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115532.png" width="40px" align="center"> </li>
+  <li> HTML5 <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115211.png" width="30px" align="center"> </li>
+  <li> CSS3  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115228.png" width="30px" align="center"> </li>
+  <li> JavaScript  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115244.png" width="30px" align="center"> </li>
+  <li> Arduino <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_122130.png" width="30px" align="center"> </li>
 </ul>
 
 <h4> 🖥Tecnologias que possuo conhecimento básico:</h4>
 <ul>
-  <li> Java  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125138.png" max-width="30px" align="center"></li>
-  <li> Pascal  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125102.png" max-width="30px" align="center"></li>
-  <li> C#  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125042.png" max-width="30px" align="center"></li>
+  <li> Java  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125138.png" width="30px" align="center"></li>
+  <li> Pascal  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125102.png" width="30px" align="center"></li>
+  <li> C#  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125042.png" width="30px" align="center"></li>
 </ul>
 
 <h4>  🔭Atualmente trabalhando: </h4>
