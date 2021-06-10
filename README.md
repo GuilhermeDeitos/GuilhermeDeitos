@@ -30,12 +30,13 @@
 </ul>
 
 
-<h4> 💻Redes Sociais: </h4>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeitos&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/GuilhermeDeitos/github-readme-stats)
 
-<ul>
-  <li><a href="https://www.instagram.com/guilherme_deitos/" target="_blank">Instagram</a> </li>
-  <li><a href="https://www.linkedin.com/in/guilherme-augusto-deitos-alves-568131197/" target="_blank">Linkedln</a></li>
-  <li><a href="mailto:guilherme.cascavel@gmail.com" target="_blank">Gmail</a></li>
-</ul>
+<h4 align="center"> 💻Redes Sociais: </h4>
 
 
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/guilherme_deitos/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/guilherme-augusto-deitos-alves-568131197/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:guilherme.cascavel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
