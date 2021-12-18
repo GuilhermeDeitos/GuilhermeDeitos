@@ -1,21 +1,24 @@
 <h1 align="center"> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" width="40px"> </h1>
 
 <h4> 💬Sobre mim: </h4>
-<p>Meu nome é Guilherme, tenho 16 anos, sou um entusiasta de desenvolvimento WEB e Data Science e no processo de me tornar um programador. Estou no ultimo ano de TI e planejando ingressar em Ciencia da computação ou Analise e Desenvolvimento de Sistemas</p>
+<p>Meu nome é Guilherme, tenho 17 anos, sou um entusiasta de desenvolvimento WEB e Data Science e no processo de me tornar um programador. Formado no curso Técnico em Informática pelo IFPR - Cascavel e planejando ingressar em uma faculdade da área de técnologia.</p>
 
-<h4> 🌱Atualmente estudando: </h4>
+<h4> 💻Técnologias que possuo conhecimento: </h4>
 
 <ul>
-  <li> Python(Pandas)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115532.png" width="40px" align="center"> </li>
+  <li> Python <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?pid=ImgDet&rs=1" width="30px" align="center"> </li>
   <li> HTML5 <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115211.png" width="30px" align="center"> </li>
   <li> CSS3  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115228.png" width="30px" align="center"> </li>
-  <li> JavaScript  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115244.png" width="30px" align="center"> </li>
-  <li> Arduino <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_122130.png" width="30px" align="center"> </li>
+  <li> JavaScript(Frontend e Backend)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115244.png" width="30px" align="center"> </li>
+  <li> Node.js <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="30px" align="center"> </li>
+  <li> POO em Java<img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125102.png " width="30px" align="center"></li>
+  <li>MySQL <img src="https://www.blogson.com.br/wp-content/uploads/2020/12/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png" margin="10px" width="30px" align="center"></li>
+   <li>SQLite <img src="https://th.bing.com/th/id/OIP.3lDn1OnuwG3USyP_TA2fhwHaDT?pid=ImgDet&rs=1" margin="10px" width="40px" align="center"></li>
 </ul>
 
 <h4> 🖥Tecnologias que possuo conhecimento básico:</h4>
 <ul>
-  <li> Java  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125102.png " width="30px" align="center"></li>
+  <li> Pandas(Python)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115532.png" width="30px" align="center"></li>
   <li> Pascal  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125138.png" width="30px" align="center"></li>
   <li> C#  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125042.png" width="30px" align="center"></li>
 </ul>
