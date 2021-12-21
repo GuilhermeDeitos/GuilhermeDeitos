@@ -4,7 +4,7 @@
 <h4> 💬Sobre mim: </h4>
 <p>Meu nome é Guilherme, tenho 17 anos, sou um entusiasta de desenvolvimento WEB e Data Science e no processo de me tornar um programador. Formado no curso Técnico em Informática pelo IFPR - Cascavel e planejando ingressar em uma faculdade da área de técnologia.</p>
 
-<h4> 💻Técnologias que possuo conhecimento: </h4>
+<h4> 💻Tecnologias que possuo conhecimento: </h4>
 
 <ul>
   <li> Python <img src="https://petbcc.ufscar.br/media/python.png" width="30px" align="center"> </li>
