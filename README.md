@@ -27,10 +27,9 @@
 <h4>  🔭Atualmente trabalhando: </h4>
   
 <ul>
-  <li> Desenvolvimento de E-Commerce(TCC)</li>
+  <li> Aprimoramento da API de E-Commerce(TCC)</li>
   <li> Analise de base de dados com Pandas</li>
   <li> Projetos simples/intermediarios em Python </li>
-  <li> Projetos da Robótica com Arduino </li>
 </ul>
 
 <br>
