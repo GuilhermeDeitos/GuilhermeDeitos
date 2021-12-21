@@ -1,3 +1,4 @@
+
 <h1 align="center"> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" width="40px"> </h1>
 
 <h4> 💬Sobre mim: </h4>
@@ -6,7 +7,7 @@
 <h4> 💻Técnologias que possuo conhecimento: </h4>
 
 <ul>
-  <li> Python <img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="30px" align="center"> </li>
+  <li> Python <img src="https://petbcc.ufscar.br/media/python.png" width="30px" align="center"> </li>
   <li> HTML5 <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115211.png" width="30px" align="center"> </li>
   <li> CSS3  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115228.png" width="30px" align="center"> </li>
   <li> JavaScript(Frontend e Backend)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115244.png" width="30px" align="center"> </li>
@@ -35,6 +36,7 @@
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeitos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
 
 </br>
 
