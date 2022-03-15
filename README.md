@@ -24,12 +24,12 @@
   <li> C#  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125042.png" width="30px" align="center"></li>
 </ul>
 
-<h4>  🔭Atualmente trabalhando: </h4>
+<h4>  🔭Atualmente estudando: </h4>
   
 <ul>
-  <li> Aprimoramento da API de E-Commerce(TCC)</li>
-  <li> Analise de base de dados com Pandas</li>
-  <li> Projetos simples/intermediarios em Python </li>
+  <li> React.js</li>
+  <li> Docker </li>
+  <li> Bootstrap </li>
 </ul>
 
 <br>
