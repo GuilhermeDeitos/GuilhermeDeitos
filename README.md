@@ -1,44 +1,42 @@
 
 <h1 align="center"> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" width="40px"> </h1>
 
-<h4> 💬Sobre mim: </h4>
-<p>Meu nome é Guilherme, tenho 17 anos, sou um entusiasta de desenvolvimento WEB e Data Science e no processo de me tornar um programador. Formado no curso Técnico em Informática pelo IFPR - Cascavel e planejando ingressar em uma faculdade da área de técnologia.</p>
+## 💬Sobre mim:
+Meu nome é Guilherme, tenho 18 anos, sou um desenvolvedor WEB Junior. Formado no curso Técnico em Informática pelo IFPR - Cascavel e aluno do curso de Ciencia da Computação - Unioeste.
 
-<h4> 💻Tecnologias que possuo conhecimento: </h4>
+## 🧰 Ferramentas que possuo conhecimento
+Ferramentas que eu já trabalhei/fiz projetos
 
-<ul>
-  <li> Python <img src="https://petbcc.ufscar.br/media/python.png" width="30px" align="center"> </li>
-  <li> HTML5 <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115211.png" width="30px" align="center"> </li>
-  <li> CSS3  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115228.png" width="30px" align="center"> </li>
-  <li> JavaScript(Frontend e Backend)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115244.png" width="30px" align="center"> </li>
-  <li> Node.js <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="30px" align="center"> </li>
-  <li> POO em Java<img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125102.png " width="30px" align="center"></li>
-  <li>MySQL <img src="https://www.blogson.com.br/wp-content/uploads/2020/12/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png" margin="10px" width="30px" align="center"></li>
-   <li>SQLite <img src="https://logodownload.org/wp-content/uploads/2018/05/sqlite-logo.png" margin="10px" width="40px" align="center"></li>
-</ul>
+![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-FF8000?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-003775?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-555555?style=for-the-badge&logo=pandas&logoColor=white)
 
-<h4> 🖥Tecnologias que possuo conhecimento básico:</h4>
-<ul>
-  <li> Pandas(Python)  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_115532.png" width="30px" align="center"></li>
-  <li> Pascal  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125138.png" width="30px" align="center"></li>
-  <li> C#  <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/imagem_2021-06-09_125042.png" width="30px" align="center"></li>
-</ul>
 
-<h4>  🔭Atualmente estudando: </h4>
-  
-<ul>
-  <li> React.js</li>
-  <li> Docker </li>
-  <li> Bootstrap </li>
-</ul>
+##  🔭Atualmente estudando:
+![Next.js](https://img.shields.io/badge/NEXT.JS-323330?style=for-the-badge&logo=next.js)
+![Nest.js](https://img.shields.io/badge/NEST.JS-c82333?style=for-the-badge&logo=nest.js&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-555555?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeitos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDeitos&theme=dark">
-<h4 align="center"> 💻Redes Sociais: </h4>
+## 💻Redes Sociais:
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/guilherme_deitos/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
