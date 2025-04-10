@@ -2,7 +2,7 @@
 <h1 align="center"> Olá, Bem vindo ao meu Github <img src="https://github.com/GuilhermeDeitos/GuilhermeDeitos/blob/main/img/Hi.gif" width="40px"> </h1>
 
 ## 💬Sobre mim:
-Meu nome é Guilherme, tenho 18 anos, sou um desenvolvedor WEB Junior. Formado no curso Técnico em Informática pelo IFPR - Cascavel e aluno do curso de Ciencia da Computação - Unioeste.
+Meu nome é Guilherme, tenho 20 anos, sou um desenvolvedor WEB Junior. Formado no curso Técnico em Informática pelo IFPR - Cascavel e aluno do curso de Ciencia da Computação - Unioeste.
 
 ## 🧰 Ferramentas que possuo conhecimento
 Ferramentas que eu já trabalhei/fiz projetos
